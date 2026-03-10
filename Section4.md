@@ -2,7 +2,7 @@
 
 ## 15)
 
-**nano** (hin n text gile)
+###  **nano** (hin n text gile)
 >hin n text file , hapet tjeter view
 
 >enter to new line
@@ -13,17 +13,17 @@ short-cuts
 
 >CTRL+E to exit
 
-**nano fileName.txt** 
+### **nano fileName.txt** 
 
 >e krijon file dhe hin ne file per me edit
 
-## 15)
+## 16)
 
 ### *KONFIGURIMI nanorc*
 
 *tab njihet si rreth 8 space*
 
-**nano .nanorc**(. hidden)
+### **nano .nanorc**(. hidden)
 
 >set tabstospace
 
