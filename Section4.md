@@ -19,7 +19,7 @@ short-cuts
 
 ## 15)
 
-###*KONFIGURIMI nanorc*
+### *KONFIGURIMI nanorc*
 
 *tab njihet si rreth 8 space*
 
