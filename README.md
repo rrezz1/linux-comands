@@ -1,6 +1,6 @@
 # Section 2
 5)
-ls (list)
+**ls (list)**
 
 >tkallzon kejt folderat, filet qe i ki n qat path ku je,
 
@@ -26,3 +26,5 @@ Ushtrim:
 >cd ../../Desktop - > pra 2 her back , edhe cd Dekstop
 
 7)
+clear
+>me i pastru kejt
