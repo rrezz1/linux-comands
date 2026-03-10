@@ -1,10 +1,10 @@
 # Section 2
 5)
-**ls **(list)
+**ls**(list)
 
 >tkallzon kejt folderat, filet qe i ki n qat path ku je,
 
-**pwd **(print working directory)
+**pwd**(print working directory)
 
 >tregon sakt ku je , pra cilin path
 
@@ -28,3 +28,8 @@ Ushtrim:
 7)
 **clear**
 >me i pastru kejt
+
+**cd m + TAB**
+>nese psh je kthy cd, edhe e shkru cd m. Kur e prek Tab t shfaqet path qe je kan heren e kalue
+**cd D + TAB + TAB**
+> kthen kejt Folderat qe i kena me shkronjen D 
