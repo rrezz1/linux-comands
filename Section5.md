@@ -62,3 +62,25 @@ dmth mndahen me gr edhe secili gr psh te **drwxr-xr-x** mun me:
 >xr -> execute, read
 
 >x -> execute
+
+
+
+## 21)
+
+*Change a file's OWNER* (letsgooooooooo)
+
+kur krijojna file me sudo (jo user ton), owner o root, na mujna veq me read 
+
+### **ls -s fileName.txt**
+>t dhonat per qet file
+
+### **chown** (change the owner)
+>man chown per dokumentim
+
+
+### **sudo chown rrez fileName** (rrezz->userName)
+
+>tash u ndrry ovner so root po rrez
+
+> tash qeti file ju qasim pa sudo
+
