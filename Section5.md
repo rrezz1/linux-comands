@@ -128,8 +128,15 @@ USHTRIM
 
 >chmod g+rwe scriptName.bash
 
->chmod g-w scriptName.bash
 
->chmod o-rwe scriptName.bash
+qetu mujna edhe
 
->chmod o+e scriptName.bash
+>read  4
+
+>write 2
+
+>execute 1
+
+>rwe 7
+
+>chmod 751 scriptName.bash
