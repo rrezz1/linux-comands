@@ -117,8 +117,11 @@ drwxr-xr-x root root -> e para o Owner , e dyta o Grupi (spe di a kom shkru)
 
 
 USHTRIM
+
 *User Ed munet me read, write, execute*
+
 *Grupi mun me read edhe execute*
+
 *others mujn veq me execute*
 
 >chmod u+rwe scriptName.bash
