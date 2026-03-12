@@ -13,10 +13,10 @@ automation
 **cron**
 >the command used to create, edit, and manage a user's scheduled tasks
 
-###**crontab -l**
+### **crontab -l**
 >i list kejt crontabs
 
-###**crontab -e**
+### **crontab -e** (to edit)
 >fshi kejt edhe bone paste
 
 > ```
@@ -27,4 +27,64 @@ automation
 > # | | day of the month (1–31)
 > # | hour (0–23)
 > # minute (0–59)
-> ```
+> shto
+> * * * * * echo "Hello" >> /c/Users/User/testLinuxComands/file.txt (path ku don me ru)
+>  ```
+
+### **qdo or**
+>  ```
+> 0 * * * * echo "Hello" >> /c/Users/User/testLinuxComands/file.txt (path ku don me ru)
+>  ```
+
+### **qdo 7:15**
+>  ```
+> 15 7 * * * echo "Hello" >> /c/Users/User/testLinuxComands/file.txt (path ku don me ru)
+>  ```
+
+### **qdo minut n 6**
+>  ```
+> * 6 * * * echo "Hello" >> /c/Users/User/testLinuxComands/file.txt (path ku don me ru)
+>  ```
+
+### **me 21:13 qdo met 10 qdo muj**
+>  ```
+> 13 21 10 * * echo "Hello" >> /c/Users/User/testLinuxComands/file.txt (path ku don me ru)
+>  ```
+
+
+### **me 21:13 qdo met 10 , janar**
+>  ```
+> 13 21 10 1 * echo "Hello" >> /c/Users/User/testLinuxComands/file.txt (path ku don me ru)
+>  ```
+
+
+### **me 21:13 qdo dille**
+>  ```
+> 13 21 * * 0 echo "Hello" >> /c/Users/User/testLinuxComands/file.txt (path ku don me ru)
+>  ```
+
+
+### **me 21:10,21:20,21:30**
+>  ```
+> 10,20,30 21 * * * echo "Hello" >> /c/Users/User/testLinuxComands/file.txt (path ku don me ru)
+>  ```
+
+
+### **me 21 every 10 minuts**
+>  ```
+> */10 * * * echo "Hello" >> /c/Users/User/testLinuxComands/file.txt (path ku don me ru)
+>  ```
+
+
+### **qdo 10 minuta prej 7 deri 9**
+>  ```
+> */10 8-9 * * echo "Hello" >> /c/Users/User/testLinuxComands/file.txt (path ku don me ru)
+>  ```
+
+### **crontab -r**
+>to remove
+
+### **ushtro**
+>[https://crontab.guru/](https://crontab.guru/)
+
+## 38)
