@@ -108,3 +108,21 @@ automation
 >  [Install]
 >  WantedBy=multi-user.target
 > ```
+
+### **sudo systemctl list-unit-files**
+>i shohim kejt files qe jan enable/disable
+
+### **sudo systemctl list-unit-files | grep ensure**
+>kallzon tonen
+
+### **sudo systemctl enable ensure....** (name)
+>per me bo enable
+
+>### **sudo systemctl disable ensure....** (name)
+>per me bo disable
+
+>### **sudo systemctl stop ensure....** (name)
+>per me bo stop
+
+>### **sudo systemctl start ensure....** (name)
+>per me bo start
