@@ -125,5 +125,5 @@ automation
 ### **sudo systemctl stop ensure....** (name)
 >per me bo stop
 
->### **sudo systemctl start ensure....** (name)
+### **sudo systemctl start ensure....** (name)
 >per me bo start
