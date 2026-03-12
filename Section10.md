@@ -7,10 +7,10 @@ automation
 **cron**
 >is a time-based job scheduler that automates the execution of repetitive tasks, commands, or scripts at specified intervals
 
-**cron**
+**cron job**
 >an automated task in Linux/Unix-like operating systems that is scheduled to run periodically at specific dates and times without manual intervention
 
-**cron**
+**crontab**
 >the command used to create, edit, and manage a user's scheduled tasks
 
 ### **crontab -l**
