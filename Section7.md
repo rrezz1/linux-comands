@@ -83,56 +83,56 @@ njejt
 
 shortcuots
 
-# **Tab**
+## **Tab**
 > e fill emrin 
 
-# **UP/DOWN ARROWS**
+## **UP/DOWN ARROWS**
 >komandat qe i kena shkru
 
-# **CTRL + SHIFT + C**
+## **CTRL + SHIFT + C**
 >copy n terminal
 
-# **CTRL + SHIFT + V**
+## **CTRL + SHIFT + V**
 >paste n terminal
 
 
-# **CTRL + C**
+## **CTRL + C**
 >stop any process qe o tu bo
 
-# **CTRL + A**
+## **CTRL + A**
 >t qet fillim line t komandes
 
-# **CTRL + E**
+## **CTRL + E**
 >t qet fund line t komandes
 
-# **CTRL + U**
+## **CTRL + U**
 >kur je midis line
 >fshin kejt qa ka perpara prej pozites qe je
 
-# **CTRL + K**
+## **CTRL + K**
 >kur je midis line
 >fshin kejt qa ka permas prej pozites qe je
 
-# **CTRL + R**
+## **CTRL + R**
 >e bon search komanden qa ke use, amo fjalen e par n qata bazohet
 
-# **CTRL + SHIFT + T**
+## **CTRL + SHIFT + T**
 >e qel i tab t ri n qat terminal
 
-# **tmux**
+## **tmux**
 >qel terminal mrena terminalit
 
-# **sudo apt install terminator**
+## **sudo apt install terminator**
 >per me instalu terminatorin
 
-# **CTRL + SHIFT + O**
+## **CTRL + SHIFT + O**
 >split horizontal
 
-# **CTRL + SHIFT + E**
+## **CTRL + SHIFT + E**
 >split vertical
 
-# **CTRL + SHIFT + X**
+## **CTRL + SHIFT + X**
 >to add and remove a specific terminal in full screen
 
-# **ALT + L**
+## **ALT + L**
 >e qel layout qe e kena ru
