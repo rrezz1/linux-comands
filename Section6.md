@@ -2,11 +2,14 @@
 
 ## 24)
 
-### **apt** *Advanced Package Tool*
+### **apt** 
+*Advanced Package Tool*
 
-### **yum** *Yellowdog Updater, Modified*
+### **yum** 
+*Yellowdog Updater, Modified*
 
-### **brew Homebrew** *can be useful for installing packages that aren't easily available on your distro*
+### **brew Homebrew** 
+*can be useful for installing packages that aren't easily available on your distro*
 
 ### **git** *an open-source, distributed version control system used for tracking changes in files and coordinating work on a project among multiple people*
 
