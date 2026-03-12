@@ -18,10 +18,13 @@ automation
 
 ###**crontab -e**
 >fshi kejt edhe bone paste
->  * * * * * <command to execute>
-># | | | | |
-># | | | | day of the week (0–6) (Sunday to Saturday; 
-># | | | month (1–12)             7 is also Sunday on some systems)
-># | | day of the month (1–31)
-># | hour (0–23)
-># minute (0–59)
+
+> ```
+> * * * * * <command to execute>
+> # | | | | |
+> # | | | | day of the week (0–6) (Sunday to Saturday; 7 is also Sunday on some systems)
+> # | | | month (1–12)
+> # | | day of the month (1–31)
+> # | hour (0–23)
+> # minute (0–59)
+> ```
